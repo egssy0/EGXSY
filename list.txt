@@ -4094,3 +4094,35 @@ Jarllo12.08.2020
 Discord Name: Ttv trizzz yt
 Epic Name: Ttv trizzz yt
 Discord ID: 713434581885386853
+
+
+Discord = GoblinLegends#5331
+
+Game = Fortnite
+
+Epic Name: Retrolization
+
+Permission to hunt = Yes
+----------------------------------------------------------------------------------
+Discord = KamFam#2126
+
+Game = Fortnite
+
+Epic Name: Spe11 Red
+
+Permission to hunt = Yes
+-----------------------------------------------------------------------------------
+Discord = Faultisona#6110
+
+Game = Fortnite
+Epic Name: fatladiesugly
+
+Permission to hunt = Yes
+------------------------------------------------------------------------------------
+Discord = Hovsmoothdaddy#6658
+
+Game = Fortnite
+
+Epic Name: Hovsmoothdaddy
+
+Permission to hunt = Yes
